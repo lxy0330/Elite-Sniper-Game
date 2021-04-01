@@ -8,7 +8,7 @@
 
 Bug:
 
-外掛turmoil模式時有時會失靈，請退到遊戲主選單在點擊turmoil模式
+外掛turmoil模式時有時會失靈，請退到遊戲主選單再點擊turmoil模式
 或是關掉重開
 
 Have Fun!!
